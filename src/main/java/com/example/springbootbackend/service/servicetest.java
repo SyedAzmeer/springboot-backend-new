@@ -1,2 +1,4 @@
-package com.example.springbootbackend.service;public class servicetest {
+package com.example.springbootbackend.service;
+
+public class servicetest {
 }
